@@ -1,0 +1,18 @@
+# Site settings
+title: UsbBluetooth
+description: >-
+  Take full control of your USB Bluetooth controllers!
+baseurl: ""
+url: "usbbluetooth.github.io"
+github_username:  usbbluetooth
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
