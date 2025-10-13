@@ -3,7 +3,7 @@ layout: home
 ---
 
 <p align="center">
-  <img src="assets/img/logo.png" style="max-height:200px;" />
+  <img src="/assets/img/logo.png" style="max-height:200px;" />
 </p>
 
 ## Take full control of your USB Bluetooth controllers!

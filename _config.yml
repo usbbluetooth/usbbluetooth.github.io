@@ -16,3 +16,6 @@ defaults:
       path: "assets/img"
     values:
       image: true
+
+exclude:
+  - '*.drawio'
