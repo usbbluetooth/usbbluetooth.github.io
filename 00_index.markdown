@@ -1,5 +1,6 @@
 ---
 layout: home
+permalink: /
 ---
 
 <p align="center">
