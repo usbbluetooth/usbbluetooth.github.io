@@ -25,5 +25,5 @@ UsbBluetooth was created to:
 
 ## Featured In
 
-- **RootedCon 2025, Madrid**: Initial release presentation. Part of a broader initiative to improve tooling for Bluetooth security research. [Slides](https://github.com/TarlogicSecurity/Talks/blob/main/2025_RootedCon_BluetoothTools.pdf), [Blog](https://www.tarlogic.com/blog/hacking-bluetooth-the-easy-way-with-esp32-hci-commands-and-hidden-features/)
-- **Hardwear.io 2025, Netherlands**: Used by Xeno Kovah as a tool to interact with and aid the reverse engineering process of some Realtek chips. [Publication](https://darkmentor.com/publication/2025-11-hardweario/), [Slides](https://darkmentor.com/2025-11-21_HardwearioNL2025_RTL8761B_RE_Slides_With_Builds.pdf)
+- **RootedCon 2025, Madrid**: Initial release presentation. Part of a broader initiative to improve tooling for Bluetooth security research. [Slides](https://github.com/TarlogicSecurity/Talks/blob/main/2025_RootedCon_BluetoothTools.pdf), [Blog](https://www.tarlogic.com/blog/hacking-bluetooth-the-easy-way-with-esp32-hci-commands-and-hidden-features/).
+- **Hardwear.io 2025, Netherlands**: Used by Xeno Kovah as a tool to interact with and aid the reverse engineering process of some Realtek chips. [Publication](https://darkmentor.com/publication/2025-11-hardweario/), [Slides](https://darkmentor.com/2025-11-21_HardwearioNL2025_RTL8761B_RE_Slides_With_Builds.pdf).
