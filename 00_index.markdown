@@ -13,9 +13,6 @@ UsbBluetooth is a LibUSB based Bluetooth device driver that allows you to intera
 
 It bypasses traditional OS level Bluetooth stacks, enabling low level access to HCI commands and vendor specific extensions.
 
-This project was first presented at RootedCon 2025 as part of a broader initiative to improve tooling for Bluetooth security research. See the [original slides](https://github.com/TarlogicSecurity/Talks/blob/main/2025_RootedCon_BluetoothTools.pdf) of the talk.
-
-
 ## Purpose
 
 UsbBluetooth was created to:
@@ -25,3 +22,8 @@ UsbBluetooth was created to:
 - Enable custom HCI command crafting, including vendor specific commands.
 - Facilitate fuzzing, reverse engineering, and protocol analysis.
 - Support development in multiple languages with bindings for C, Python, and C#.
+
+## Featured In
+
+- **RootedCon 2025, Madrid**: Initial release presentation. Part of a broader initiative to improve tooling for Bluetooth security research. [Slides](https://github.com/TarlogicSecurity/Talks/blob/main/2025_RootedCon_BluetoothTools.pdf), [Blog](https://www.tarlogic.com/blog/hacking-bluetooth-the-easy-way-with-esp32-hci-commands-and-hidden-features/)
+- **Hardwear.io 2025, Netherlands**: Used by Xeno Kovah as a tool to interact with and aid the reverse engineering process of some Realtek chips. [Publication](https://darkmentor.com/publication/2025-11-hardweario/), [Slides](https://darkmentor.com/2025-11-21_HardwearioNL2025_RTL8761B_RE_Slides_With_Builds.pdf)
