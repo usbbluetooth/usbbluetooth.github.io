@@ -4,7 +4,8 @@ title: Platform Quirks
 permalink: /quirks/
 ---
 
-UsbBluetooth uses LibUsb underneath for USB communication (see [Architecture](/architecture/). Due to this, there are some platform-specific requirements and quirks to be aware of.
+UsbBluetooth uses LibUsb underneath for USB communication (see [Architecture](/architecture/)).
+Due to this, there are some platform-specific requirements and quirks to be aware of.
 
 ## Windows
 
@@ -14,7 +15,8 @@ If a device fails to open, please, verify that WinUSB is the driver currently in
 
 ## Linux
 
-On Linux, the user must have access to the USB devices to be able to opnen them. Several options to achieve this are available:
+On Linux, the user must have access to the USB devices to be able to opnen them.
+Several options to achieve this are available:
 
 - **Run as root**: Use `sudo` to run the application with elevated privileges. Note that this may not be ideal for security.
 
